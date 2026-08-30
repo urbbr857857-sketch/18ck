@@ -1353,19 +1353,6 @@
       }
     },
     {
-      "key": "安博",
-      "name": "安博.txt",
-      "type": 3,
-      "api": "./安博.txt",
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "flag": "txt"
-      }
-    },
-    {
       "key": "寂寞阿姨__",
       "name": "寂寞阿姨🔞.py",
       "type": 3,
